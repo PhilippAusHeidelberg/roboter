@@ -1,0 +1,21 @@
+{
+    "name": "Roboter",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "callibot": "github:mkleinsb/pxt-callibot#v1.0.1"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "blocksprj"
+}
